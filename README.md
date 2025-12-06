@@ -17,4 +17,3 @@ Gosto de programar e aprender coisas novas de várias áreas. Também me interes
 #### Contato:
 
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-# abcs2
