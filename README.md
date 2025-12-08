@@ -16,4 +16,4 @@ Gosto de programar e aprender coisas novas de várias áreas. Também me interes
 
 #### Contato:
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-da-costa-saraiva/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHkYnYfynRvG%2F7OElXuHpQg%3D%3D)
